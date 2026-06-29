@@ -7,7 +7,8 @@ title: Home
   <main class="home-main">
 
     <div class="site-bio">
-      <p><a href="/" class="site-name">Reuben Mergard</a> knows a bit about branding, a smidge about making things, a lot about thinking about making things, and hardly anything about tax returns — except that his is probably late. Self-employed. Needs a better boss. Enjoys the arrangement of words. Editing less so. Spends a lot of time imagining things in the spatial-conceptual realm: energy flowing, forms assembling, light bending around invisible forces. Shoots medium format film. Obsessed with organisation as a hobby he never has time for. Thinks a lot about how creative people can do more with what they've got. Not much of a surfer, but you can't catch a wave before you get in the water. Not in the habit of writing about himself in the third person. For those who make.</p>
+      <p><a href="/" class="site-name">for those who make</a> is a somewhat open-ended writing practice where Australian artist, designer and brand consultant Reuben Mergard writes on topics intended to be relevant to professional creatives.</p>
+      <p>Reuben Mergard is a designer who works primaily on branding projects, but undertakes a number of spatial deisgn and artistic projects. He thinks extensivley on creative.</p>
     </div>
 
     <div class="post-list">
